@@ -19,10 +19,3 @@ This script automates the installation of Zsh, Oh My Zsh, and the zsh-autosugges
 
 Ensure you have administrator rights or use `sudo` to run the script if necessary.
 
-## For server-side execution, after cloning your repository which contains the script:
-
-- Navigate to the script's directory.
-- Ensure the script is executable: `chmod +x setup_zsh.sh`.
-- Execute the script: `sudo ./setup_zsh.sh`.
-
-This process will set up Zsh, Oh My Zsh, and the zsh-autosuggestions plugin on the server, following the script's instructions. Always verify the script's content for safety before running it on your server.
