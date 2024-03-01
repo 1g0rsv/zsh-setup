@@ -4,7 +4,7 @@ This script automates the installation of Zsh, Oh My Zsh, and the zsh-autosugges
 
 ## Usage
 
-1. Clone this repository to your local machine or server.
+1. Clone this repository to your local machine or server `git clone git@github.com:1g0rsv/zsh-setup.git`.
 2. Make the script executable: `chmod +x setup_zsh.sh`.
 3. Run the script: `./setup_zsh.sh`.
 
